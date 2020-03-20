@@ -1,0 +1,2 @@
+﻿section,ps_sourceFile,csv_targetFile
+gs_bucket_path,gs://tf-sjsu-dev/SourceCSVFiles/,gs://tf-sjsu-dev/ProcessedCSVFiles/
